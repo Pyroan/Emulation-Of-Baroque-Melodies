@@ -11,7 +11,7 @@ import java.io.IOException;
  * @author Violet M.
  *
  */
-public class ABCFile {
+public class ABCReader {
 
 	private BufferedReader buffRead;
 
