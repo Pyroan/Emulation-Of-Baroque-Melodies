@@ -2,7 +2,7 @@ package abc;
 
 /**
  * Represents a Song.
- * @author Violet Moore
+ * @author Violet M
  *
  */
 public class Song {
