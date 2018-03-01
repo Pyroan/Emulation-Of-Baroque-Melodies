@@ -10,7 +10,7 @@ import abc.SongBuilder;
  * When given an array of notes,
  * can process them into a
  * fitness value.
- * @author Violet Moore
+ * @author Violet M.
  */
 public class TuneEvaluator {
 
